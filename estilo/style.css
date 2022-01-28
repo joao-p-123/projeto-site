@@ -14,3 +14,28 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(red, green, blue, alpha);
 }
+
+h1{
+    font-size: 2em;
+    color: rgb(red, green, blue);
+}
+
+h2{
+    font-size: 1.5em;
+    color: rgb(red, green, blue);
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(42, 42, 128);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgba(red, green, blue, alpha);
+}
